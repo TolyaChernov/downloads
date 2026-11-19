@@ -11,38 +11,29 @@
 | Приложение | Платформа | Описание |
 |---|---|---|
 | **Fastik** | Desktop (Windows) | Локальный поиск по имени и содержимому файлов |
-| **Cut Stock** | Desktop (Windows / Linux) | Калькулятор заготовок, допуски, справочники |
+| **Cut Stock** | Desktop (Windows) | Калькулятор заготовок, допуски, справочники |
 | **Дневник питания** | Android | Учёт еды, локальная база и каталог продуктов |
 
 ## Скачать
 
-Актуальные файлы — на странице [Releases](https://github.com/TolyaChernov/downloads/releases).
+Актуальные файлы — на странице [Releases](https://github.com/TolyaChernov/downloads/releases/latest).
 
-После публикации релиза прямые ссылки будут вида:
-
-```text
-https://github.com/TolyaChernov/downloads/releases/download/<tag>/<filename>
-```
-
-Рекомендуемые имена ассетов:
-
-| Файл | Приложение |
-|---|---|
-| `Fastik-windows-x64.msi` | Fastik |
-| `CutStock-windows-x64.exe` | Cut Stock (Windows) |
-| `CutStock-linux-x64` | Cut Stock (Linux), по желанию |
-| `FoodDiary-android.apk` | Дневник питания |
+| Файл | Приложение | Платформа |
+|---|---|---|
+| [`fastik.exe`](https://github.com/TolyaChernov/downloads/releases/latest/download/fastik.exe) | Fastik | Windows |
+| [`cut_stock.exe`](https://github.com/TolyaChernov/downloads/releases/latest/download/cut_stock.exe) | Cut Stock | Windows |
+| [`calorie-calculator.apk`](https://github.com/TolyaChernov/downloads/releases/latest/download/calorie-calculator.apk) | Дневник питания | Android |
 
 ## Установка
 
 ### Fastik / Cut Stock (Windows)
 
-Скачайте установщик или `.exe` из релиза и запустите. SmartScreen может показать предупреждение для неподписанных сборок — это ожидаемо для портфолио-релизов.
+Скачайте `.exe` из релиза и запустите. SmartScreen может показать предупреждение для неподписанных сборок — это ожидаемо для портфолио-релизов.
 
 ### Дневник питания (Android)
 
-Установите APK. На устройстве может понадобиться разрешение на установку из неизвестных источников.
+Установите `calorie-calculator.apk`. На устройстве может понадобиться разрешение на установку из неизвестных источников.
 
 ## Лицензия и поддержка
 
-Сборки предоставляются «как есть», для ознакомления. Вопросы и заказы — в [Telegram](https://t.me/anatoli_chernov).
+Сборки предоставляются «как есть», для ознакомления. Вопросы и предложения о сотрудничестве — в [Telegram](https://t.me/anatoli_chernov).
